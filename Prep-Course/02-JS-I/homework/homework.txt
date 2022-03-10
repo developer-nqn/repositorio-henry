@@ -1,0 +1,12 @@
+Variables: son como "cajitas" que pueden contener un valor, Por Ej.: var nombre = "Pepe"; (aqui definimos una llamada "nombre" y le asignamos el valor "Pepe").
+           se les puede cambiar ese valor en cualquier momento, por Ej.: nombre = "Pepe y Juan";.
+Strings:   es un tipo de dato que representa una cadena de letras o valores alfanuméricos, por Ej. "Juan esta en el aula" y se puede guardar en una variariable o 
+           realizar acciones con ella por Ej. juntar dos cadenas, "pepe " + " hola" y obtendriamos una nueva cadena (de tipo String) igual a "pepe  hola".
+Funciones: una funcion es un tipo de objeto que se puede invocar ( por Ej. hablar()) y que realiza una serie de acciones (o comandos) pudiendo devolver o no un resultado
+           esa funcion a su vez puede recibir parametros (por Ej. decirHola( nombre) - recibe un nombre y devuelve "hola {nombre}").
+           La manera que tiene una funcion de entregar una respuesta cuando se la "llama" o invoca es la palabra clave "return".
+           para declarar una funcion, se coloca una palabra clave "function" seguida del nombre de la misma.
+Declaraciones o condicionales. Tomamos por Ej. el condicional "if" que quiere decir "Si" (en este caso un condicional permite "hacer" una cosa u otra en función de si un
+                               dato en verdadero/falso.) Por Ej. Si nombre == "pepe" { digo "pepe"} sino { digo "nombre erroneo"}     
+Valores true/false: asi como existen valores de tipo "cadena" o String, existen otro valores que se llaman booleanos (que pueden tomar dos valores true "verdadero y 
+                    false "falso"). Mirando al ejemplo del "if" Si nombre == "pepe" ( la comparacion que se hace con el "==" devuelve "Verdadero o Falso")       
